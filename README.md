@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-
+# Tic-Tac-Toe
 Tic tac toe game with numpy
