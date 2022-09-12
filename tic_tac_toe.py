@@ -115,6 +115,8 @@ def game():
                 break
             not winner() and max_moves == 0: # If a winner has not yet found then there is tie
             print('Tie!')       
-               
-game()
+
+# Main driver
+if __name__ == '__main__':               
+    game()
 
