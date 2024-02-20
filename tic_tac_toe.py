@@ -1,5 +1,5 @@
 # Tic Tac Toe using numpy
-# Even though the game is working fine, the code can be quite improved. By now is more compless than it could be
+# Even though the game is working fine, the code can be quite improved. By now is more complex than it could be
 # Any further improvement is well accepted
 # Author: Emanuele
 
